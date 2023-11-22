@@ -20,3 +20,6 @@ Job manager speaks to the [Battery Simulator Microservice](https://github.com/mV
   "nominalCell": 7,
   "controlCurrent": 2
 }
+
+### Supporting Microservices
+- [Battery Simulator Microservice 🔋💥](https://github.com/mVeerasingam/Battery-Simulator-Microservice)
